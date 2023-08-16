@@ -3300,6 +3300,7 @@ SpeedSmm Versiyon 1 Kaynak Kodları - SMM PANEL / SpeedSmm Version 1 Source Code
 - 🏓 [Fast Uptime](https://fastuptime.com/)<br>
 - 🪄 All kinds of projects are made <br>
 - 🧨 You can contact us to make a paid project<br>
+- 💸 You can contact for paid installation<br>
 - ☄️ [Click For Contact](mailto:fastuptime@gmail.com)<br>
 
 # 🎯 License 🎯
