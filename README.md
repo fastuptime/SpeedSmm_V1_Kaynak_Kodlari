@@ -19,7 +19,7 @@ SpeedSmm Versiyon 1 Kaynak Kodları - SMM PANEL / SpeedSmm Version 1 Source Code
 
 
 ```
-📦SpeedSmm_V1_Kaynak_Kodlari
+📦SpeedSmm_V1
  ┣ 📂www
  ┃ ┣ 📂dashboard
  ┃ ┃ ┣ 📂assets
